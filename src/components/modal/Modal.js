@@ -24,6 +24,7 @@ export default function Modal() {
         <div className="modal">
           <div onClick={toggleModal} className="overlay"></div>
           <div className="modal-content">
+            <br/><br/>
             <h2 className=''>По всем вопросам обращайтесь:</h2>
                 <div>  
                     <p className=''>+7-988-888-88-88 Имя 

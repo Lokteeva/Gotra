@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6,p{
 }
 .btn{
   display:grid;
-  grid-template-columns: 2fr 1fr 0.1fr 1fr 2fr; 
+  grid-template-columns: 2fr 1fr 0.2fr 1fr 2fr; 
   margin: calc(var(--index)*1);
 }
 .btn_pog{
@@ -250,7 +250,7 @@ p{
     justify-content: center;
   }  
 .gita_img{  
-  height: calc(var(--index)*20); 
+  min-height: calc(var(--index)*20); 
   background-image: url(/public/gita.jpeg); 
   width: 100vw;
   opacity: 80%;

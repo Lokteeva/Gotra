@@ -6,6 +6,7 @@ import Stupeni from './components/12stupeney.jsx';
 import Vagnost from './components/vagnost.jsx';
 import Slugenie from './components/slugenie.jsx';
 import Pogertvovanie from './components/pogertvovanie/pogertvovanie';
+import Btn2 from './components/btn2';
 
 function App() {
   
@@ -42,7 +43,7 @@ function App() {
 <Stupeni/>
 <Slugenie/>
 <Btn/> 
-<Pogertvovanie/>
+<Btn2/>
 
      
     </div>

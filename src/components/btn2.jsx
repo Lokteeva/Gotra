@@ -1,6 +1,5 @@
 import Pogertvovanie from './pogertvovanie/pogertvovanie.jsx'
 
-
 const Btn2 = ()=>{
     return(
       <div className="btn_pog" >     

@@ -30,6 +30,7 @@ export default function Pogertvovanie() {
                 <div>  
                     <p className=''>2202 2061 8110 9864
                     </p>
+                    <p>Сбербанк Имя Отчество Ф. </p>
                 </div>
             <button className="close-modal" onClick={toggleModal}>
               X
