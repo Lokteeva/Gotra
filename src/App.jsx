@@ -22,7 +22,7 @@ function App() {
       <Header/>  
     
     <article className='main-article'>
-      <h3><span>Биография</span></h3>
+      <h2><span>Биография</span></h2>
       <h1>Его Святейшество Бхакти Бхагаватамрита Кешава Свами</h1>
 
       <div>
@@ -41,8 +41,8 @@ function App() {
 
 <Vagnost/>    
 <Stupeni/>
-<Slugenie/>
 <Btn/> 
+<Slugenie/>
 <Btn2/>
 
      
