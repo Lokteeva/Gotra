@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6,p{
   text-align: center;
   width: calc(var(--index)*14);
   margin: calc(var(--index)*.5) auto;
-  background-color: rgb(241, 129, 37);
+  background: linear-gradient(rgb(250, 196, 152), rgb(241, 129, 37)); 
   color: rgb(255, 255, 255);
   box-shadow: 5px 8px 17px  rgb(150, 150, 150);
 }
@@ -160,9 +160,9 @@ box-shadow: 7px 9px 17px  rgb(78, 77, 77);
   text-align: center;
   width: calc(var(--index)*14);
   margin: calc(var(--index)*.5) auto;
-  background-color: rgb(121, 119, 118);
+  background: linear-gradient(rgb(155, 155, 155), rgb(99, 99, 99));
   color: rgb(255, 255, 255);
-  box-shadow: 5px 8px 17px  rgb(150, 150, 150);
+  box-shadow: 5px 8px 17px  rgb(151, 151, 151);
 }
 .btn3:hover{
 background-color: rgb(151, 151, 149);
