@@ -160,7 +160,7 @@ box-shadow: 7px 9px 17px  rgb(78, 77, 77);
   text-align: center;
   width: calc(var(--index)*14);
   margin: calc(var(--index)*.5) auto;
-  background: linear-gradient(rgb(155, 155, 155), rgb(99, 99, 99));
+  background: linear-gradient(rgb(181, 179, 179), rgb(99, 99, 99));
   color: rgb(255, 255, 255);
   box-shadow: 5px 8px 17px  rgb(151, 151, 151);
 }
